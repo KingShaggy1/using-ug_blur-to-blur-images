@@ -1,1 +1,1 @@
-# using-ug_blur-to-blur-images
+This class takes as input labels, file path of images to be blurred, output path of blurred images, xml file path and then blurs all images based on the labels given. The mode of blurring is done using GaussianBlur for box and polygon points.
